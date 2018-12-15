@@ -1,5 +1,5 @@
 # nRF52840-CusDongle
-nRF52840 Customized Dongle is designed same as nRF52840 Dongle of Nordic Semiconductor, but it have additionally some advance futures.
+nRF52840 Customized Dongle is designed same as nRF52840 Dongle of Nordic Semiconductor, but it have some additionally advance futures.
 
 -Fanout all GPIO pins/USB pins of nRF52840 to two female headers 1.27x40.
 
