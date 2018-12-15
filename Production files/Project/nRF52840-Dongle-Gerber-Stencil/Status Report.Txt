@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [nRF52840-kit.PrjPcb]
+   Generated File[nRF52840-kit.GTP]
+   Generated File[nRF52840-kit.RUL]
+   Generated File[nRF52840-kit.EXTREP]
+   Generated File[nRF52840-kit.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:56:59 AM On 12/10/2018

@@ -1,0 +1,34 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~101|Field=Description~String~Description~101|Field=Designator~String~Designator~101|Field=Footprint~String~Footprint~101|Field=LibRef~String~LibRef~101|Field=Quantity~Integer~Quantity~101|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~nRF52840-kit.PrjPcb|ReportField=ProjectFullPath~E:\Altium\Projects\nRF52840_CusDevKit\using_chipset\Project_4\nRF52840-kit.PrjPcb|ReportField=Title~Bill of Materials For Project [nRF52840-kit.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~54|ReportField=ReportTime~12:12:10 PM|ReportField=ReportDate~12/14/2018|ReportField=ReportDateTime~12/14/2018 12:12:10 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/14/2018|ReportField=CurrentTime~12:11:07 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Altium\Projects\nRF52840_CusDevKit\using_chipset\Project_4\misc.SchDoc|ReportField=DocumentName~misc.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~D.N.Nhuan|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/3/2018|ReportField=Organization~|ReportField=ProjectName~nRF52840-kit.PrjPcb|ReportField=Revision~v1.0|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~2|ReportField=Time~|ReportField=Title~Miscellaneous|ReportField=DataSourceFileName~nRF52840-kit.PrjPcb|ReportField=DataSourceFullPath~E:\Altium\Projects\nRF52840_CusDevKit\using_chipset\Project_4\nRF52840-kit.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|IFA Antenna|Texas Instrument|A1|IFA_ANTENNA|IFA Antenna|1
+2|12pF|common library|C1, C2, C17, C18|0402 imperial|Capacitor|4
+3|1.0pF|common library|C3, C4|0402 imperial|Capacitor|2
+4|100nF|common library|C5, C7, C8, C12, C25|0402 imperial|Capacitor|5
+5|4.7µF|common library|C6, C20, C21|0603_Imperial|Capacitor|3
+6|820pF|common library|C9|0402 imperial|Capacitor|1
+7|N.C.|common library|C10, C13|0402 imperial|Capacitor|2
+8|100pF|common library|C11|0402 imperial|Capacitor|1
+9|1µF|common library|C14, C15, C26, C27|0603_Imperial|Capacitor|4
+10|47nF|common library|C16|0402 imperial|Capacitor|1
+11|300pF|common library|C23, C24|0402 imperial|Capacitor|2
+12|PRTR5V0U2X|Ultra low capacitance double rail-to-rail ESD protection diode|D1|SOT190P230X110-4L||1
+13|DIODE S4|common library|D2|SOD-123|Diode Schottky|1
+14|Ipex|Hirose|J1|HRS_U.FL-R-SMT|IPEX connector|1
+15|FPC 0.5mm RA SMD|0.5mm FPC, 5P,Right Angle SMT,Double Contact,H=1.2mm,White, Tin plated|J2|FPC_05P-0.5mm-RA-SMD||1
+16|USB-A-Male||J3|USB-A-DIP|USB-A-Male|1
+17|3.9nH|common library|L1|0402 imperial|Inductor|1
+18|10µH|common library|L2|0603_Imperial|Inductor|1
+19|15nH|common library|L3|0402 imperial|Inductor|1
+20|Green|common library|LED1|LED_0603|LED|1
+21|RGB||LED2|LED_0603_RGB|LED_RGB|1
+22|||P1, P2|CONN1.27MM2x20_FM_SMD|Header 20x2|2
+23|7p, 2.54mm||P3|CONN2.54MM7P|Header 7|1
+24|Res Selector||R1|RES_SELECTOR_0402|Res_Selector|1
+25|100K|common library|R2|0402 imperial|Resistor|1
+26|0R|common library|R3, R4, R5, R6|0402 imperial|Resistor|4
+27|10K|common library|R7|0402 imperial|Resistor|1
+28|xx|common library|R8, R9, R10|0402 imperial|Resistor|3
+29|PB SW|4-pin|SW1|Switch-PB-6.2x6.3mm-SMD||1
+30|nRF52840-QIAA|Multi-protocol Bluetooth Low Energy, IEEE 802.15.4, ANT and 2.4GHz proprietary system-on-chip|U1|AQFN50P700X700X85_HS-74N||1
+31|XC6206P332MR|Low ESR Cap.Compatible Positive Voltage Regulators|U2|SOT-23|XC6206|1
+32|32MHz|4-pin|X1|XTAL_2016||1
+33|32.768kHz|2-pin|X2|XTAL_3215||1
