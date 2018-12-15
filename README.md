@@ -7,8 +7,8 @@ nRF52840 Customized Dongle is designed same as nRF52840 Dongle of Nordic Semicon
 
 -One user button, one green led, one RGB led same as nRF52840 Dongle.
 
--One Debugging-Programming Male Header 2.54x7.
+-Debugging-Programming Male Header 2.54x7.
 
--One reset button.
+-Reset button.
 
 -NFC ANT connector same as nRF52DK/nRF52840 DK.
